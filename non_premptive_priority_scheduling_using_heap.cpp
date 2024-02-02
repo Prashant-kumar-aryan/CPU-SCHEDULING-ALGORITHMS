@@ -1,3 +1,7 @@
+
+// Contributed BY Prashant Kumar Aryan
+// Mail me for any bugs found in this code -prashantkr2698@gmail.com
+// if u want to know the implementaion of this code u can use gpt for that i am not adding any comment lines
 #include <bits/stdc++.h>
 using namespace std;
 struct Process
